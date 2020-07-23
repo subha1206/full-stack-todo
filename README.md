@@ -1,2 +1,3 @@
-# basic-Server-node
-Basic Node.Js Server
+# Node-Mongodb Todo
+Basic fullstack todo app with server and database
+
