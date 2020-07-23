@@ -1,0 +1,23 @@
+{
+  "name": "basic-server-node",
+  "version": "1.0.0",
+  "description": "Basic Node.Js Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subha1206/basic-server-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subha1206/basic-server-node/issues"
+  },
+  "homepage": "https://github.com/subha1206/basic-server-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
