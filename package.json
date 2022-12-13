@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/subha1206/basic-server-node#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.5.9",
     "nodemon": "^2.0.4",
     "sanitize-html": "^1.27.1"
